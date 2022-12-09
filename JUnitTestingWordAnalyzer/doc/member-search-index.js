@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"jUnitTesting","c":"WordsCountTest","l":"test()"},{"p":"jUnitTesting","c":"WordsCountTest","l":"WordsCountTest()","u":"%3Cinit%3E()"}];updateSearchResults();
